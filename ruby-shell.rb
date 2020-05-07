@@ -1,5 +1,5 @@
 require "yaml"
-config = YAML.load_file('config.yml')
+# config goes here
 
 # Ruby shell v1.0
 
