@@ -14,3 +14,5 @@ while (input = gets.chomp)
   system(input)
   print prompt
 end
+
+# if a command doesnt exist, ruby-shell will report back with nothing. this will be fixed soon
